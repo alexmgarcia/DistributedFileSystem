@@ -4,7 +4,7 @@ This is an academic assignment for the Distributed Systems course which is a Dis
 
 It is a community of servers on which the client can operate as it is just one server (using Java RMI or WebServices and SSL). It supports the commands servers, ls dir, mkdir dir, rmdir dir, cp path1 path2, rm path, getattr path
 
-It also has a proxy to Dropbox, Google Drive and Flickr allowing to sync a directory whith this services
+It also has a proxy to Dropbox, Google Drive and Flickr allowing to sync a directory with this services
 
 ## How to run
 
